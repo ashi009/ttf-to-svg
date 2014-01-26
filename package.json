@@ -1,0 +1,13 @@
+{
+  "name": "ttf-to-svg",
+  "author": "Xiaoyi Shi <ashi009@gmail.com>",
+  "description": "Converting a subset of TTF to a series of svg iamges, with optimized structure.",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo": "git+ssh://git@github.com:ashi009/nono-packages#apollo",
+    "svgo": "*",
+    "xml2js": "*"
+  }
+}
